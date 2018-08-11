@@ -10,6 +10,6 @@ suggestions and feedback are very useful for me (:
 3.  Change $autoload['libraries'], to $autoload['libraries'] = array('honeywords','SHA3_256')
 4.  You can use 'view' folder to help you understand the process on my library
 
-
-[1] Imran Erguler. 2015. Achieving Flatness: Selecting the Honeywords from Existing User Passwords.  IEEE Transactions on Dependable and Secure Computing. -> https://ieeexplore.ieee.org/document/7047759/
-[2] random_compat -> https://github.com/paragonie/random_compat/releases/tag/v1.4.3
+# References
+1. Imran Erguler. 2015. Achieving Flatness: Selecting the Honeywords from Existing User Passwords.  IEEE Transactions on Dependable and Secure Computing. -> https://ieeexplore.ieee.org/document/7047759/
+2. random_compat -> https://github.com/paragonie/random_compat/releases/tag/v1.4.3
